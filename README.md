@@ -7,3 +7,6 @@ For about 11 years now, i have been working on lots of projects of different siz
 
 Right now i dedicate most of my free time to [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap#readme).
 This tool generates a map from a minecraft-savegame, that then is viewable in a web-browser in full 3D. I started this project in 2018 and have been working on it since.
+
+### BlueMap total servers
+[![BlueMap Graph](https://metrics.bluecolored.de/bluemap/graph?w=600)](https://metrics.bluecolored.de/)
