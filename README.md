@@ -8,9 +8,10 @@ Since i started developing with Java in 2010, i have been working on lots of pro
 [![Java](https://img.shields.io/badge/-Java-informational)](https://github.com/BlueMap-Minecraft/BlueMap)
 ![GIT](https://img.shields.io/badge/-GIT-green)
 ![Spring](https://img.shields.io/badge/-Spring-yellow)
-![RESTful](https://img.shields.io/badge/-RESTful-red)
+![OOP](https://img.shields.io/badge/-OOP-red)
 ![Gradle](https://img.shields.io/badge/-Gradle-green)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-informational)](https://github.com/BlueMap-Minecraft/BlueMapWeb)
+![RESTful](https://img.shields.io/badge/-RESTful-red)
 [![ThreeJS](https://img.shields.io/badge/-ThreeJS-yellow)](https://github.com/BlueMap-Minecraft/BlueMapWeb)<br>
 [![VueJS](https://img.shields.io/badge/-VueJS-yellow)](https://github.com/BlueMap-Minecraft/BlueMapVue)
 ![Maven](https://img.shields.io/badge/-Maven-green)
@@ -19,6 +20,7 @@ Since i started developing with Java in 2010, i have been working on lots of pro
 ![TypeScript](https://img.shields.io/badge/-TypeScript-informational)
 ![JQuery](https://img.shields.io/badge/-JQuery-yellow)
 ![MySQL](https://img.shields.io/badge/-MySQL-informational)
+![TDD](https://img.shields.io/badge/-TDD-red)
 
 Right now i dedicate most of my free time to [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap#readme).
 This tool generates a map from a minecraft-savegame, that then is viewable in a web-browser in full 3D. I started this project in 2018 and have been working on it since.
