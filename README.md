@@ -1,6 +1,9 @@
 ### Hello there 👋 my name is Lukas.
 Or Blue if you want to use my nickname. 💙
 
+![Discord](https://img.shields.io/badge/Discord-Blue%233055-5865F2?style=for-the-badge&logo=discord)<br>
+[![Twitter](https://img.shields.io/badge/Twitter-%40bluecolo_red-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/bluecolo_red)
+
 I am a specialized computer scientist in application development in Germany (Stuttgart).
 
 Since i started developing with Java in 2010, i have been working on lots of projects of different sizes and each challenging in an unique way. Some of those projects can be found here :)
